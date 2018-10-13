@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuxianwen.github.io/"/>
-  <updated>2018-04-28T10:10:54.255Z</updated>
+  <updated>2018-10-10T16:20:41.746Z</updated>
   <id>https://yuxianwen.github.io/</id>
   
   <author>
@@ -17,11 +17,88 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Test</title>
+    <link href="https://yuxianwen.github.io/2018/10/11/Test/"/>
+    <id>https://yuxianwen.github.io/2018/10/11/Test/</id>
+    <published>2018-10-10T16:15:46.000Z</published>
+    <updated>2018-10-10T16:20:41.746Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="web前端" scheme="https://yuxianwen.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="测试" scheme="https://yuxianwen.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="前端" scheme="https://yuxianwen.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://yuxianwen.github.io/2018/06/13/ESlint%E9%85%8D%E7%BD%AE%20%E8%A7%84%E5%88%99%20%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://yuxianwen.github.io/2018/06/13/ESlint配置 规则 详解/</id>
+    <published>2018-06-13T15:45:25.319Z</published>
+    <updated>2018-06-13T15:45:25.319Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://yuxianwen.github.io/2018/06/13/hello-world/"/>
+    <id>https://yuxianwen.github.io/2018/06/13/hello-world/</id>
+    <published>2018-06-13T15:45:25.319Z</published>
+    <updated>2018-06-13T15:45:25.319Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://yuxianwen.github.io/2018/06/13/%E5%90%8D%E7%89%87vCard%E6%A0%BC%E5%BC%8F%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://yuxianwen.github.io/2018/06/13/名片vCard格式参数详解/</id>
+    <published>2018-06-13T15:45:25.319Z</published>
+    <updated>2018-06-13T15:45:25.319Z</updated>
+    
+    <content type="html"><![CDATA[<p>由于</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;由于&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>vue中关于路由组件之间的通信</title>
     <link href="https://yuxianwen.github.io/2018/04/28/vue%E4%B8%AD%E5%85%B3%E4%BA%8E%E8%B7%AF%E7%94%B1%E7%BB%84%E4%BB%B6%E4%B9%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1/"/>
     <id>https://yuxianwen.github.io/2018/04/28/vue中关于路由组件之间的通信/</id>
     <published>2018-04-28T09:10:30.000Z</published>
-    <updated>2018-04-28T10:10:54.255Z</updated>
+    <updated>2018-06-13T15:45:25.319Z</updated>
     
     <content type="html"><![CDATA[<p>偶然一次使用vue开发项目时，有一个业务场景是这样的</p><p>header组件中 有一个搜索框，输入关键字搜索时，不论那个页面</p><p>都会跳转到list页面，同时list页面重新加载数据 </p><h2 id="一、使用bus监听"><a href="#一、使用bus监听" class="headerlink" title="一、使用bus监听"></a>一、使用bus监听</h2><p><strong>header.vue</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">this.$emit(&apos;search&apos;, this.key)</span><br></pre></td></tr></table></figure><p><strong>list.vue</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">this.$on(&apos;search&apos;, key =&gt; &#123;</span><br><span class="line">    consoe.log(key)</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure><p>实践证明 在list.vue中根本触发不了不了 search 事件</p><p>扑街</p><h2 id="二、使用vuex"><a href="#二、使用vuex" class="headerlink" title="二、使用vuex"></a>二、使用vuex</h2><p><strong>header.vue</strong></p><p>关键代码如下<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">import &#123;mapMutaions&#125; from &apos;vuex</span><br><span class="line">...</span><br><span class="line"></span><br><span class="line">methods: &#123;</span><br><span class="line">    ...mapMutaions([&apos;updateKey&apos;]),</span><br><span class="line">    search () &#123;</span><br><span class="line">        this.updateKey(this.key)</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p><strong>list.vue</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">this.$on(&apos;search&apos;, key =&gt; &#123;</span><br><span class="line">    consoe.log(key)</span><br><span class="line">&#125;)</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -45,41 +122,28 @@
     <link href="https://yuxianwen.github.io/2018/04/28/%E4%BD%99%E6%98%BE%E6%96%87%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
     <id>https://yuxianwen.github.io/2018/04/28/余显文测试文章发布/</id>
     <published>2018-04-28T08:10:48.000Z</published>
-    <updated>2018-04-28T08:11:34.459Z</updated>
+    <updated>2018-10-10T16:14:35.620Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章，欢迎关注作者博客[1]: <a href="https://yuxianwen.github.io/" target="_blank" rel="noopener">https://yuxianwen.github.io/</a></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章，欢迎关注作者博客[1]: <a href="https://yuxianwen.github.io/">https://yuxianwen.github.io/</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这是一篇测试文章，欢迎关注作者博客[1]: &lt;a href=&quot;https://yuxianwen.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://yuxianwen.github.io/&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;这是一篇测试文章，欢迎关注作者博客[1]: &lt;a href=&quot;https://yuxianwen.github.io/&quot;&gt;https://yuxianwen.github.io/&lt;/a&gt;&lt;/p&gt;
 
       
     
     </summary>
     
+      <category term="web前端" scheme="https://yuxianwen.github.io/categories/web%E5%89%8D%E7%AB%AF/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://yuxianwen.github.io/2018/04/28/hello-world/"/>
-    <id>https://yuxianwen.github.io/2018/04/28/hello-world/</id>
-    <published>2018-04-28T07:52:59.184Z</published>
-    <updated>2018-04-28T07:52:59.187Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      <category term="测试" scheme="https://yuxianwen.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
-    <summary type="html">
+      <category term="余显文" scheme="https://yuxianwen.github.io/tags/%E4%BD%99%E6%98%BE%E6%96%87/"/>
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
+      <category term="发布" scheme="https://yuxianwen.github.io/tags/%E5%8F%91%E5%B8%83/"/>
     
   </entry>
   
